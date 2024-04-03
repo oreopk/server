@@ -1,0 +1,20 @@
+[
+  {
+    "image": "image 14.png",
+    "cardTitle": "Безпроводные наушники №1",
+    "reviews": 100,
+    "price": 32
+  },
+  {
+    "image": "image 13.png",
+    "cardTitle": "Безпроводные наушники №2",
+    "reviews": 130,
+    "price": 95
+  },
+  {
+    "image": "image 12.png",
+    "cardTitle": "Безпроводные наушники №3",
+    "reviews": 88,
+    "price": 123
+  }
+]
